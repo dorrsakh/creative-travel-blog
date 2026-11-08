@@ -22,4 +22,4 @@ npx tsc --noEmit
 npm run build
 ```
 
-The exact component library will be confirmed if “beUI” refers to a specific package. Do not commit credentials or configuration from the parent directory.
+The requested component library is [beUI](https://beui.dev), which provides source components built with Motion and Tailwind CSS. beUI components will be selected after inspecting the design; none have been integrated yet. Do not commit credentials or configuration from the parent directory.
