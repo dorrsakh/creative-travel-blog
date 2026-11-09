@@ -2,6 +2,12 @@
 
 A responsive, frontend-only travel journal built from the [Creative Travel Blog Figma reference](https://www.figma.com/site/0iUOBlEkrw78MhI3y6g66T/Creative-Travel-Blog--Community---Copy-).
 
+## Preview
+
+![The Roam Report website preview](docs/website-preview.png)
+
+[View the website](https://7071--main--dev--dorrsakh.cde.rastar.dev/) · Requires your CDE sign-in and a running workspace.
+
 ## Features
 
 - Home, Archive, About, and article pages with eight individual story URLs.
