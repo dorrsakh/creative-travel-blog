@@ -5,14 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "clsx": "2.1.1",
+    "lucide-react": "1.70.0",
     "motion": "14.10.1",
     "next": "16.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "tailwind-merge": "3.7.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -23,5 +25,6 @@
     "eslint-config-next": "16.4.5",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "A frontend-only travel journal with beUI motion components"
 }
